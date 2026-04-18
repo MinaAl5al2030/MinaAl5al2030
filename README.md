@@ -9,6 +9,14 @@
 
 ## 👨‍💻 About Me
 
+
+- 🎓 Computer Science Graduate – Faculty of Computers & Information  
+- 🏫 ITI 9-Month Professional Training Program (Professional Development & BI-infused CRM Track)  
+- 💻 Junior Full Stack Web Developer ( .NET Core • Node.js • MongoDB • Angular • SQL Server)  
+- 🔧 Strong experience in REST APIs & Web Applications  
+- 🤝 Freelance developer with real-world projects  
+- 🌱 Passionate about clean code & continuous learning  
+
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Full%20Stack-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Full Stack" />
   <img src="https://img.shields.io/badge/Software%20Engineer-8B5CF6?style=for-the-badge" alt="Software Engineer" />
